@@ -12,8 +12,10 @@
 
 <hr>
 
+<!-- chapter 1 -->
 <h2 id="chapter-1-pronunciation" align="center">Chapter 1: Pronunciation</h2>
 
+<!-- lesson 1 -->
 <h3 id="lesson-1-alphabet" align="center">Lesson 1: Alphabet:</h3>
 
 <table>
@@ -46,3 +48,45 @@
 
 <hr>
 
+<!-- lesson 2 -->
+<h3 id="lesson-2-name-of-7-days" align="center">Lesson 02: Name of 7 Days</h3>
+
+<ul>
+  <li>Saturday = স্যঠাডেই</li>
+  <li>Sunday = সানডেই</li>
+  <li>Monday = মানডেই</li>
+  <li>Tuesday = ঠিউজডেই</li>
+  <li>Wednesday = ওয়েন্সডেই</li>
+  <li>Thursday = থাজডেই</li>
+  <li>Friday = ফ্রাইডেই 😁</li>
+</ul>
+
+<p><strong>Note:</strong></p>
+<ul>
+    <li> 'r' এর পরে Consonant থাকলে 'r' Silent থাকবে: Saturday = স্যঠাডেই</li>
+    <li> 'r' এরপর Vowel থাকলে 'r' উচ্চারিত হবে: Friday = ফ্রাইডেই 😁</li>
+</ul>
+
+<p><strong>Vowel and Consonant:</strong></p>
+<ul>
+    <li> Vowel 5 টি : A, E, I, O, U</li>
+    <li> Consonant 21 টি: All letters except A, E, I, O, U</li>
+</ul>
+<p><strong>Exercise:</strong> 7 Days এক নিঃশ্বাসে ২-৩ বার বলতে হবে।</p>
+
+<h4>Extra Vocabulary:</h4>
+<ul>
+  <li>Day = ডেই</li>
+  <li>Pay = ফেই 👄</li>
+  <li>Lay = লেই</li>
+  <li>May = মেই</li>
+  <li>Say = ছেই</li>
+  <li>Okay = ঔখেই</li>
+  <li>Bay = বেই 👄</li>
+  <li>Holiday = হলিডেই</li>
+  <li>Today = ঠুডেই</li>
+  <li>Yesterday = ইয়েস্টাডেই</li>
+  <li>Display = ডিসপ্লেই 👄</li>
+</ul>
+
+<hr>
