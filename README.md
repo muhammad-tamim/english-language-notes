@@ -1,4 +1,4 @@
-<h1 align="center">English Learning Notes</h1>
+<h1 align="center">English Notes</h1>
 
 - [Part 1: English Therapy](#part-1-english-therapy)
   - [Chapter 1: Pronunciation](#chapter-1-pronunciation)
@@ -16,28 +16,20 @@
 ## Chapter 1: Pronunciation
 ### Lesson 1: Alphabet:
 
-| Col 1      | Col 2      | Col 3   | Col 4   | Col 5  | Col 6       | Col 7  |
-| ---------- | ---------- | ------- | ------- | ------ | ----------- | ------ |
-| A = এই     | **B = বী👄** | C = সী   | D = ডী   | E = ঈ  | **F = এফ😁** | G = জী  |
-| H = এইচ্    | I = আই     | J = জ্বেই | K = খেই  | L = এল | M = এম      | N = এন |
-| O = ওউ     | **P = ফী👄** | Q = খীউ  | R = আর  | S = এস | T = ঠী       | U = ইউ |
-| **V = ভী😁** | W = ডাবলইউ  | X = এক্স | Y = ওয়াই | Z = জেড |             |        |
+| Col 1      | Col 2      | Col 3   | Col 4   | Col 5    | Col 6       | Col 7  |
+| ---------- | ---------- | ------- | ------- | -------- | ----------- | ------ |
+| A = এই     | **B = বী👄** | C = সী   | D = ডী   | E = ঈ    | **F = এফ😁** | G = জী  |
+| H = এইচ্    | I = আই     | J = জ্বেই | K = খেই  | L = এল   | M = এম      | N = এন |
+| O = ওউ     | **P = ফী👄** | Q = খীউ  | R = আর  | S = এস   | T = ঠী       | U = ইউ |
+| **V = ভী😁** | W = ডাবলইউ  | X = এক্স | Y = ওয়াই | Z = জী/জেড |             |        |
 
 Note: 
 - B, P (👄): দুই ঠোঁট মিশিয়ে পড়তে হবে।
 - F, V (😁): উপরের দাঁত নিচের ঠোঁটের সাথে মিশিয়ে পড়তে হবে।
 
-পরিবর্তিত Letters:
+https://github.com/user-attachments/assets/2b71c0f3-5dab-46a6-94d2-1fde15ac2975
 
-| Col1   | Col2       | Col3      |
-| ------ | ---------- | --------- |
-| A = এই | J = জ্বেই    | K = খেই    |
-| O = ওউ | **P = ফী👄** | Q = খীউ    |
-| R = আঃ  | T = ঠী      | W = ডাবলইউ |
-		
-Exercise: 
-- ৩টি লেটার ১ নিঃশ্বাসে ২০ বার বলার চেষ্টা করতে হবে।
-- শুদ্ধ উচ্চারণে ১ নিঃশ্বাসে (A to Z) বলার চেষ্টা করতে হবে।				
+
 ### Lesson 2: Name of 7 Days:
 - Saturday = স্যঠাডেই
 - Sunday = সানডেই
