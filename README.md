@@ -2,19 +2,18 @@
 
 - [Part 1: English Therapy](#part-1-english-therapy)
   - [Chapter 1: Pronunciation](#chapter-1-pronunciation)
-    - [Lesson 1: Alphabet:](#lesson-1-alphabet)
-    - [Lesson 2: Name of 7 Days:](#lesson-2-name-of-7-days)
+    - [Alphabet:](#alphabet)
+    - [Name of 7 Days:](#name-of-7-days)
       - [Vowel and Consonant:](#vowel-and-consonant)
-    - [Lesson 3: Name of 12 Months:](#lesson-3-name-of-12-months)
-    - [Lesson 4: Numbers:](#lesson-4-numbers)
-- [Part 2: Vocabulary Therapy](#part-2-vocabulary-therapy)
-- [Part 3: English Grammar](#part-3-english-grammar)
+    - [Name of 12 Months:](#name-of-12-months)
+    - [Numbers:](#numbers)
 
 
 # Part 1: English Therapy
 
 ## Chapter 1: Pronunciation
-### Lesson 1: Alphabet:
+
+### Alphabet:
 
 | Col 1      | Col 2      | Col 3   | Col 4   | Col 5    | Col 6       | Col 7  |
 | ---------- | ---------- | ------- | ------- | -------- | ----------- | ------ |
@@ -30,18 +29,20 @@ Note:
 https://github.com/user-attachments/assets/2b71c0f3-5dab-46a6-94d2-1fde15ac2975
 
 
-### Lesson 2: Name of 7 Days:
+### Name of 7 Days:
 - Saturday = স্যঠাডেই
 - Sunday = সানডেই
 - Monday = মানডেই
-- Tuesday = ঠিউজডেই
+- Tuesday = চিউজডেই/ঠিউজডেই
 - Wednesday = ওয়েন্সডেই
-- Thursday = থাজডেই
-- **Friday = ফ্রাইডেই😁**
+- Thursday = থ্রাজ...ডেই
+- Friday = ফ্রাইডেই
+
+https://github.com/user-attachments/assets/2354222e-6fb0-4979-ad26-0f316d58d8d1
 
 Note:
 - r এর পরে Consonant থাকলে r Silent থাকবে: Saturday = স্যঠাডেই
-- r এর পরে Vowel থাকলে r উচ্চারিত হবে: Friday = ফ্রাইডেই😁
+- r এর পরে Vowel থাকলে r উচ্চারিত হবে: Friday = ফ্রাইডেই
 
 #### Vowel and Consonant:
 - Vowel 5 টি : A, E, I, O, U
@@ -49,16 +50,14 @@ Note:
 
 Extra Vocabulary:
 
-| col1        | col2               | col3              | col4           |
-| ----------- | ------------------ | ----------------- | -------------- |
-| Day = ডেই    | Pay = ফেই👄          | Lay = লেই          | May = মেই       |
-| Say = ছেই    | Okay = ঔখেই         | Bay = বেই 👄        | Holiday = হলিডেই |
-| Today = ঠুডেই | Yesterday = ইয়েস্টাডেই | Display = ডিসপ্লেই 👄 |                |
+| col1        | col2               | col3            | col4           |
+| ----------- | ------------------ | --------------- | -------------- |
+| Day = ডেই    | Pay = ফেই           | Lay = লেই        | May = মেই       |
+| Say = ছেই    | Okay = ঔখেই         | Bay = বেই        | Holiday = হলিডেই |
+| Today = ঠুডেই | Yesterday = ইয়েস্টাডেই | Display = ডিসপ্লেই |                |
 
 
-Exercise: 7 Days এক নিঃশ্বাসে ২-৩ বার বলতে হবে।
-
-### Lesson 3: Name of 12 Months:
+### Name of 12 Months:
 - January = জ্যানুয়ারী
 - February = ফেব্রুয়ারী 😁
 - March = মাচ
@@ -74,7 +73,7 @@ Exercise: 7 Days এক নিঃশ্বাসে ২-৩ বার বলত�
 
 Exercise: এক নিঃশ্বাসে ১২ মাসের নামগুলো ২-৩ বার বলতে হবে।
 
-### Lesson 4: Numbers:
+### Numbers:
 
 - Cardinal Numbers (অঙ্কবাচক সংখ্যা):
   
@@ -156,5 +155,3 @@ Exercise: এক নিঃশ্বাসে ১২ মাসের নামগ
 
 Exercise: ১ থেকে ৩০ পর্যন্ত এক নিঃশ্বাসে বলতে হবে
 
-# Part 2: Vocabulary Therapy
-# Part 3: English Grammar
