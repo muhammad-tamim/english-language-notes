@@ -1,13 +1,19 @@
-<h1 align="center">English Notes</h1>
+<h1 align="center">English Language Notes</h1>
 
-- [Part 1: Pronunciation](#part-1-pronunciation)
+- [Basic English:](#basic-english)
   - [Alphabet:](#alphabet)
   - [Name of 7 Days:](#name-of-7-days)
   - [Name of 12 Months:](#name-of-12-months)
   - [Numbers:](#numbers)
+  - [Animals:](#animals)
+  - [Birds:](#birds)
+  - [Fish:](#fish)
+  - [Insects:](#insects)
+  - [Fruits:](#fruits)
+  - [Vegetables:](#vegetables)
+  - [Human Body:](#human-body)
 
-
-# Part 1: Pronunciation
+# Basic English:
 
 ## Alphabet:
 
@@ -168,3 +174,268 @@ Note:
 
 - Vowel 5 টি : A, E, I, O, U
 - Consonant 21 টি: All letters except A, E, I, O, U
+
+## Animals: 
+
+| Animal     | American Accent | British Accent |
+| ---------- | --------------- | -------------- |
+| Dog        | daw-g           | dog            |
+| Cat        | kat             | kat            |
+| Cow        | kow             | kow            |
+| Goat       | goht            | gəʊt           |
+| Sheep      | sheep           | sheep          |
+| Horse      | hors            | haws           |
+| Pig        | pig             | pig            |
+| Rabbit     | rab-it          | rab-it         |
+| Mouse      | mous            | maʊs           |
+| Rat        | rat             | rat            |
+| Deer       | deer            | deer           |
+| Wolf       | wulf            | wulf           |
+| Fox        | foks            | foks           |
+| Bear       | bair            | beh-uh         |
+| Lion       | lie-ən          | lie-uhn        |
+| Tiger      | tie-gər         | tie-guh        |
+| Elephant   | el-uh-fənt      | el-uh-fənt     |
+| Monkey     | mung-kee        | mun-kee        |
+| Ape        | ayp             | eyp            |
+| Gorilla    | guh-ril-uh      | go-ril-uh      |
+| Zebra      | zee-brə         | zeh-brə        |
+| Giraffe    | juh-raf         | ji-raf         |
+| Kangaroo   | kang-gə-roo     | kang-gə-roo    |
+| Panda      | pan-də          | pan-də         |
+| Camel      | kam-əl          | kam-əl         |
+| Donkey     | dong-kee        | don-kee        |
+| Horse      | hors            | haws           |
+| Buffalo    | buh-fə-loh      | buh-fə-loh     |
+| Ox         | oks             | oks            |
+| Squirrel   | skwur-əl        | skwi-rəl       |
+| Bat        | bat             | bat            |
+| Hedgehog   | hej-hog         | hej-hog        |
+| Otter      | ot-er           | ot-uh          |
+| Seal       | seel            | seel           |
+| Dolphin    | dol-fin         | dol-fin        |
+| Whale      | wayl            | wayl           |
+| Shark      | shark           | shaak          |
+| Crocodile  | krok-uh-dile    | krok-uh-dile   |
+| Alligator  | al-uh-gay-ter   | al-uh-gay-tuh  |
+| Snake      | snayk           | sneɪk          |
+| Lizard     | li-zərd         | liz-əd         |
+| Turtle     | tur-tl          | tuh-tl         |
+| Tortoise   | tor-təs         | taw-təs        |
+| Frog       | frog            | frog           |
+| Toad       | tohd            | təʊd           |
+| Chimpanzee | chim-pan-zee    | chim-pan-zee   |
+| Leopard    | lep-ərd         | lep-əd         |
+| Cheetah    | chee-tah        | chee-tah       |
+| Hyena      | hy-ee-nə        | hy-ee-nə       |
+
+
+## Birds: 
+| Bird       | American Accent | British Accent |
+| ---------- | --------------- | -------------- |
+| Chicken    | chik-ən         | chik-in        |
+| Duck       | duk             | dʌk            |
+| Goose      | goos            | goos           |
+| Turkey     | tur-kee         | tuh-kee        |
+| Eagle      | ee-gəl          | ee-gl          |
+| Owl        | owl             | owl            |
+| Crow       | kroh            | کرو (kroh)     |
+| Pigeon     | pij-ən          | pij-in         |
+| Sparrow    | sper-oh         | spar-oh        |
+| Parrot     | pair-ət         | pa-rət         |
+| Peacock    | pee-kok         | pee-kok        |
+| Swan       | swan            | swon           |
+| Flamingo   | fluh-ming-go    | फ्लuh-ming-go   |
+| Penguin    | peng-gwin       | peng-gwin      |
+| Seagull    | see-gul         | see-gul        |
+| Woodpecker | wood-pek-er     | wood-pek-uh    |
+| Kingfisher | king-fish-er    | king-fish-uh   |
+| Robin      | rob-in          | rob-in         |
+| Hawk       | hawk            | hawk           |
+| Falcon     | fal-kən         | fal-kən        |
+| Vulture    | vul-cher        | vul-chuh       |
+| Crane      | krayn           | krayn          |
+| Stork      | stork           | stawk          |
+| Heron      | her-ən          | her-on         |
+| Dove       | duhv            | duhv           |
+| Canary     | kuh-nair-ee     | kuh-na-ree     |
+| Crow       | kroh            | kroh           |
+| Magpie     | mag-pie         | mag-pie        |
+| Ostrich    | os-trich        | os-trich       |
+| Emu        | ee-myoo         | ee-myoo        |
+
+## Fish: 
+| Fish                     | American Accent | British Accent |
+| ------------------------ | --------------- | -------------- |
+| Salmon                   | sam-ən          | sam-ən         |
+| Tuna                     | too-nə          | tyoo-nə        |
+| Carp                     | karp            | kaap           |
+| Catfish                  | kat-fish        | kat-fish       |
+| Goldfish                 | gohld-fish      | gohld-fish     |
+| Shark                    | shark           | shaak          |
+| Eel                      | eel             | eel            |
+| Trout                    | trout           | trout          |
+| Cod                      | kod             | kod            |
+| Sardine                  | sar-deen        | sar-deen       |
+| Anchovy                  | an-cho-vee      | an-cho-vee     |
+| Mackerel                 | mak-ər-əl       | mak-rəl        |
+| Herring                  | her-ing         | her-ing        |
+| Snapper                  | snap-er         | snap-uh        |
+| Grouper                  | groo-per        | groo-puh       |
+| Tilapia                  | tuh-lah-pee-uh  | tih-lah-pee-uh |
+| Bass                     | bas             | bahs           |
+| Flounder                 | floun-der       | floun-duh      |
+| Halibut                  | hal-uh-bət      | hal-uh-bət     |
+| Swordfish                | sord-fish       | sawd-fish      |
+| Pufferfish               | puh-fer-fish    | puh-fuh-fish   |
+| Clownfish                | klown-fish      | klown-fish     |
+| Angelfish                | ayn-jel-fish    | ayn-jel-fish   |
+| Betta                    | bet-uh          | bet-uh         |
+| Guppy                    | gup-ee          | gup-ee         |
+| Koi                      | koy             | koy            |
+| Barracuda                | bar-uh-koo-duh  | bar-uh-koo-duh |
+| Stingray                 | sting-ray       | sting-ray      |
+| Bluefish                 | bloo-fish       | bloo-fish      |
+| Whitefish                | white-fish      | white-fish     |
+| Hilsa (Ilish)            | il-ish          | il-ish         |
+| Rohu (Rui)               | roo             | roo            |
+| Catla                    | kat-lah         | kat-lah        |
+| Mrigal                   | mrig-al         | mrig-al        |
+| Pangas                   | pan-gas         | pan-gas        |
+| Koi (Climbing perch)     | koy             | koy            |
+| Shing (Stinging catfish) | shing           | shing          |
+| Magur (Walking catfish)  | ma-gur          | ma-guh         |
+| Pabda                    | pab-da          | pab-da         |
+| Chital                   | chit-al         | chit-al        |
+| Tengra                   | ten-gra         | ten-gra        |
+| Boal                     | bo-al           | bo-al          |
+| Chanda                   | chan-da         | chan-da        |
+
+
+## Insects: 
+
+| Insect      | American Accent | British Accent |
+| ----------- | --------------- | -------------- |
+| Ant         | ant             | ant            |
+| Bee         | bee             | bee            |
+| Butterfly   | but-er-fly      | but-uh-fly     |
+| Mosquito    | muh-skee-toh    | muh-skee-toh   |
+| Fly         | fly             | fly            |
+| Housefly    | hous-fly        | hous-fly       |
+| Cockroach   | kok-rohch       | kok-rohch      |
+| Beetle      | bee-tl          | bee-tl         |
+| Ladybug     | lay-dee-bug     | lay-dee-bug    |
+| Dragonfly   | drag-ən-fly     | drag-ən-fly    |
+| Grasshopper | gras-hop-er     | gras-hop-uh    |
+| Cricket     | krik-it         | krik-it        |
+| Wasp        | wosp            | wosp           |
+| Hornet      | hor-net         | hor-net        |
+| Termite     | tur-mite        | tuh-mite       |
+| Moth        | moth            | moth           |
+| Caterpillar | kat-er-pil-er   | kat-uh-pil-uh  |
+| Flea        | flee            | flee           |
+| Louse       | lous            | lous           |
+| Tick        | tik             | tik            |
+| Firefly     | fye-er-fly      | fye-uh-fly     |
+| Cicada      | si-kay-duh      | si-kay-duh     |
+| Locust      | loh-kust        | loh-kust       |
+| Stink bug   | stink-bug       | stink-bug      |
+| Aphid       | ay-fid          | ay-fid         |
+
+
+## Fruits:
+| Fruit        | American Accent | British Accent |
+| ------------ | --------------- | -------------- |
+| Apple        | ap-əl           | ap-əl          |
+| Banana       | buh-na-nuh      | buh-na-nuh     |
+| Orange       | or-inj          | or-inj         |
+| Mango        | man-go          | man-go         |
+| Grapes       | grayps          | grayps         |
+| Pineapple    | pine-ap-əl      | pine-ap-əl     |
+| Papaya       | puh-pie-uh      | puh-pie-uh     |
+| Watermelon   | waw-ter-mel-ən  | wo-tuh-mel-ən  |
+| Guava        | gwa-vuh         | gwa-vuh        |
+| Jackfruit    | jak-fruit       | jak-fruit      |
+| Coconut      | koh-kuh-nut     | koh-kuh-nut    |
+| Lemon        | lem-ən          | lem-ən         |
+| Lime         | lime            | lime           |
+| Strawberry   | straw-ber-ee    | straw-bruh-ee  |
+| Blueberry    | bloo-ber-ee     | bloo-ber-ee    |
+| Cherry       | cher-ee         | cher-ee        |
+| Peach        | peech           | peech          |
+| Pear         | pair            | peh-uh         |
+| Plum         | pluhm           | pluhm          |
+| Pomegranate  | pom-uh-gran-it  | pom-uh-gran-it |
+| Lychee       | lee-chee        | lee-chee       |
+| Dragon fruit | drag-ən fruit   | drag-ən fruit  |
+| Kiwi         | kee-wee         | kee-wee        |
+| Fig          | fig             | fig            |
+| Avocado      | av-uh-kah-doh   | av-uh-kah-doh  |
+
+
+## Vegetables: 
+| Vegetable          | American Accent | British Accent |
+| ------------------ | --------------- | -------------- |
+| Potato             | puh-tay-toh     | puh-tah-toh    |
+| Tomato             | tuh-may-toh     | tuh-mah-toh    |
+| Onion              | un-yun          | un-yun         |
+| Garlic             | gar-lik         | gar-lik        |
+| Carrot             | ka-ruht         | ka-ruht        |
+| Cabbage            | kab-ij          | kab-ij         |
+| Cauliflower        | kaw-li-flau-er  | kaw-li-flau-uh |
+| Spinach            | spi-nich        | spi-nich       |
+| Lettuce            | let-iss         | let-iss        |
+| Cucumber           | kyoo-kum-ber    | kyoo-kum-ber   |
+| Eggplant           | egg-plant       | aub-er-jin     |
+| Bell pepper        | bel-pep-er      | bel-pep-uh     |
+| Chili              | chil-ee         | chil-ee        |
+| Pumpkin            | pump-kin        | pump-kin       |
+| Radish             | rad-ish         | rad-ish        |
+| Beetroot           | beet-root       | beet-root      |
+| Turnip             | tur-nip         | tur-nip        |
+| Peas               | peez            | peez           |
+| Beans              | beens           | beens          |
+| Broccoli           | brok-uh-lee     | brok-uh-lee    |
+| Corn               | korn            | kawn           |
+| Mushroom           | mush-room       | mush-room      |
+| Ginger             | jin-jer         | jin-juh        |
+| Okra               | oh-kruh         | oh-kruh        |
+| Eggplant (Brinjal) | brin-jəl        | brin-jəl       |
+
+## Human Body: 
+![alt text](./assets/images/human-body.png)
+![alt text](./assets/images/human-body-2.png)
+
+| Body Part | American Accent | British Accent |
+| --------- | --------------- | -------------- |
+| Head      | hed             | hed            |
+| Hair      | hair            | heh-uh         |
+| Face      | fays            | fays           |
+| Eye       | eye             | eye            |
+| Ear       | eer             | eer            |
+| Nose      | nohz            | nohz           |
+| Mouth     | mouth           | mouth          |
+| Lip       | lip             | lip            |
+| Tooth     | tooth           | tooth          |
+| Teeth     | teeth           | teeth          |
+| Tongue    | tung            | tung           |
+| Neck      | nek             | nek            |
+| Shoulder  | shohl-der       | shohl-duh      |
+| Arm       | arm             | arm            |
+| Elbow     | el-boh          | el-boh         |
+| Hand      | hand            | hand           |
+| Finger    | fing-gər        | fing-guh       |
+| Thumb     | thum            | thum           |
+| Chest     | chest           | chest          |
+| Stomach   | stuh-muk        | stuh-muk       |
+| Back      | bak             | bak            |
+| Waist     | wayst           | wayst          |
+| Leg       | leg             | leg            |
+| Knee      | nee             | nee            |
+| Foot      | foot            | foot           |
+| Feet      | feet            | feet           |
+| Toe       | toh             | toh            |
+| Skin      | skin            | skin           |
+| Heart     | hart            | haat           |
+| Brain     | brayn           | brayn          |
+| Blood     | blud            | blud           |
