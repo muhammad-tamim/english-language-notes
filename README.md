@@ -11,6 +11,7 @@
   - [Insects:](#insects)
   - [Fruits:](#fruits)
   - [Vegetables:](#vegetables)
+  - [Foods:](#foods)
   - [Human Body:](#human-body)
 
 # Basic English:
@@ -401,6 +402,103 @@ Note:
 | Ginger             | jin-jer         | jin-juh        |
 | Okra               | oh-kruh         | oh-kruh        |
 | Eggplant (Brinjal) | brin-jəl        | brin-jəl       |
+
+## Foods: 
+
+| Food           | American Accent                | British Accent         |
+| -------------- | ------------------------------ | ---------------------- |
+| Rice           | rys                            | rys                    |
+| Bread          | bred                           | bred                   |
+| Butter         | buh-ter                        | buh-tuh                |
+| Cheese         | cheez                          | cheez                  |
+| Milk           | milk                           | milk                   |
+| Yogurt         | yoh-gurt                       | yog-ət                 |
+| Egg            | egg                            | egg                    |
+| Omelette       | om-lit                         | om-let                 |
+| Soup           | soop                           | soop                   |
+| Salad          | sal-əd                         | sal-əd                 |
+| Sandwich       | sand-wich                      | sand-wich              |
+| Burger         | bur-ger                        | bur-guh                |
+| Pizza          | peet-suh                       | peet-suh               |
+| Pasta          | pas-tuh                        | pas-tuh                |
+| Noodles        | noo-dlz                        | noo-dlz                |
+| Fried rice     | fryd rys                       | fryd rys               |
+| Biryani        | bir-ee-ah-nee                  | bir-ee-ah-nee          |
+| Curry          | kur-ee                         | kuh-ree                |
+| Dal (Lentils)  | daal                           | daal                   |
+| Fish curry     | fish kur-ee                    | fish kuh-ree           |
+| Chicken curry  | chik-en kur-ee                 | chik-in kuh-ree        |
+| Beef           | beef                           | beef                   |
+| Mutton         | mut-n                          | mut-n                  |
+| Steak          | stayk                          | stayk                  |
+| Sausage        | saw-sij                        | sos-ij                 |
+| Kebab          | kuh-bab                        | keh-bab                |
+| Shawarma       | shuh-war-muh                   | shuh-wah-muh           |
+| Fries          | fryz                           | fryz                   |
+| Chips          | chips                          | chips                  |
+| Ice cream      | ice kreem                      | ice kreem              |
+| Cake           | kayk                           | kayk                   |
+| Biscuit        | bis-kit                        | bis-kit                |
+| Cookie         | kook-ee                        | kook-ee                |
+| Chocolate      | chok-lit                       | chok-lət               |
+| Candy          | kan-dee                        | kan-dee                |
+| Honey          | huh-nee                        | huh-nee                |
+| Jam            | jam                            | jam                    |
+| Peanut butter  | pee-nut buh-ter                | pee-nut buh-tuh        |
+| Pancake        | pan-kayk                       | pan-kayk               |
+| Waffle         | wah-fl                         | wof-l                  |
+| Donut          | doh-nut                        | doh-nut                |
+| Pudding        | pud-ing                        | pud-ing                |
+| Custard        | kus-terd                       | kus-təd                |
+| Soup rice      | soop rys                       | soop rys               |
+| Khichuri       | khi-choo-ree                   | khi-choo-ree           |
+| Paratha        | puh-rah-tha                    | puh-rah-tha            |
+| Roti           | roh-tee                        | roh-tee                |
+| Chapati        | chuh-pah-tee                   | chuh-pah-tee           |
+| Samosa         | suh-moh-suh                    | suh-moh-suh            |
+| Pakora         | puh-kaw-ruh                    | puh-koh-ruh            |
+| Halwa          | hal-wah                        | hal-wah                |
+| Jaggery        | jag-uh-ree                     | jag-uh-ree             |
+| Bhaat          | plain rice                     | baht                   | baht                   |
+| Dal            | lentil soup                    | daal                   | daal                   |
+| Bhaji          | fried vegetables               | bah-jee                | bah-jee                |
+| Aloo Bhaji     | fried potato                   | ah-loo bah-jee         | ah-loo bah-jee         |
+| Begun Bharta   | mashed eggplant                | bay-goon bhar-tuh      | bay-goon bha-tuh       |
+| Aloo Bhorta    | mashed spicy potato (BD style) | ah-loo bhor-tuh        | ah-loo bhaw-tuh        |
+| Shutki Bhorta  | mashed dried fish (spicy)      | shoot-kee bhor-tuh     | shoot-kee bhaw-tuh     |
+| Fish Curry     | fish curry                     | fish kur-ee            | fish kuh-ree           |
+| Rui Fish       | carp fish                      | roo-ee fish            | roo-ee fish            |
+| Hilsa (Ilish)  | hilsa fish                     | il-ish                 | il-ish                 |
+| Beef Bhuna     | dry beef curry                 | beef boo-nah           | beef boo-nah           |
+| Chicken Bhuna  | dry chicken curry              | chik-en boo-nah        | chik-in boo-nah        |
+| Kacchi Biryani | layered rice & meat dish       | kah-chee bir-ee-ah-nee | kah-chee bir-ee-ah-nee |
+| Tehari         | spiced rice with beef          | teh-hah-ree            | teh-hah-ree            |
+| Khichuri       | rice and lentil porridge       | khi-choo-ree           | khi-choo-ree           |
+| Pulao          | fragrant rice dish             | poo-low                | poo-low                |
+| Paratha        | layered flatbread              | puh-rah-tha            | puh-rah-tha            |
+| Roti           | flatbread                      | roh-tee                | roh-tee                |
+| Luchi          | deep-fried flatbread           | loo-chee               | loo-chee               |
+| Singara        | savory stuffed pastry          | sing-ah-rah            | sing-ah-rah            |
+| Samosa         | fried stuffed pastry           | suh-moh-suh            | suh-moh-suh            |
+| Chotpoti       | spicy chickpea snack           | chot-poh-tee           | chot-poh-tee           |
+| Fuchka         | crispy filled street snack     | fuch-kah               | fuch-kah               |
+| Jhalmuri       | spicy puffed rice mix          | jhal-moo-ree           | jhal-moo-ree           |
+| Pitha          | rice cake                      | pee-tha                | pee-tha                |
+| Chitoi Pitha   | steamed rice cake              | chi-toy pee-tha        | chi-toy pee-tha        |
+| Patishapta     | stuffed rice crepe             | pah-tee-shap-ta        | pah-tee-shap-ta        |
+| Bhapa Pitha    | steamed coconut rice cake      | bhah-pah pee-tha       | bhah-pah pee-tha       |
+| Payesh         | rice pudding                   | pie-esh                | pie-esh                |
+| Firni          | ground rice dessert            | fir-nee                | fir-nee                |
+| Mishti         | sweets                         | mish-tee               | mish-tee               |
+| Roshogolla     | syrupy cheese balls            | rosh-o-gol-lah         | rosh-o-gol-lah         |
+| Sandesh        | milk-based sweet               | shon-desh              | son-desh               |
+| Jilapi         | fried syrup dessert            | jee-lah-pee            | jee-lah-pee            |
+| Halim          | slow-cooked meat & lentils     | hah-leem               | hah-leem               |
+| Nihari         | slow-cooked beef stew          | nee-hah-ree            | nee-hah-ree            |
+| Kabab          | grilled meat                   | kuh-bab                | keh-bab                |
+| Shemai         | vermicelli dessert             | sheh-my                | sheh-my                |
+| Borhani        | spiced yogurt drink            | bor-hah-nee            | bor-hah-nee            |
+
 
 ## Human Body: 
 ![alt text](./assets/images/human-body.png)
