@@ -16,78 +16,51 @@
 
 # Basic English:
 
+Note: For better pronunciation follow this websites: 
+- https://elsaspeak.com/en/learn-english/how-to-pronounce
+- https://www.oxfordlearnersdictionaries.com/definition/english
+
 ## Alphabet:
 
-| Col 1      | Col 2      | Col 3   | Col 4    | Col 5    | Col 6       | Col 7  |
-| ---------- | ---------- | ------- | -------- | -------- | ----------- | ------ |
-| A = এই     | **B = বী👄** | C = সী   | D = ডী    | E = ঈ    | **F = এফ😁** | G = জী  |
-| H = এইচ্    | I = আই     | J = জেই  | K = খেই   | L = এল   | M = এম      | N = এন |
-| O = ওউ     | **P = ফী👄** | Q = খীউ  | R = আর/আ | S = এস   | T = ঠী       | U = ইউ |
-| **V = ভী😁** | W = ডাবলইউ  | X = এক্স | Y = ওয়াই  | Z = জি/জেড |             |        |
+| Col 1      | Col 2      | Col 3   | Col 4   | Col 5   | Col 6       | Col 7  |
+| ---------- | ---------- | ------- | ------- | ------- | ----------- | ------ |
+| A = এই     | **B = বী👄** | C = সী   | D = ডী   | E = ঈ   | **F = এফ😁** | G = জী  |
+| H = এইচ্    | I = আই     | J = জেই  | K = খেই  | L = এল  | M = এম      | N = এন |
+| O = ওউ     | **P = ফী👄** | Q = খীউ  | R = আর  | S = এস  | T = ঠী       | U = ইউ |
+| **V = ভী😁** | W = ডাবলইউ  | X = এক্স | Y = ওয়াই | Z =জেড/জি |             |        |
 
 Note: 
 - B, P (👄): দুই ঠোঁট মিশিয়ে পড়তে হবে।
 - F, V (😁): উপরের দাঁত নিচের ঠোঁটের সাথে মিশিয়ে পড়তে হবে।
 
-Note:
-| Rule          | american accent               | british  accent      |
-| ------------- | ----------------------------- | -------------------- |
-| r after vowel | ALWAYS pronounced (car = kar) | DROPPED (car = kaa)  |
-| t in middle   | d-ডী  (water = wa-der)         | t-ঠী (water = wo-tuh) |
-
-- Vowel 5 টি : A, E, I, O, U
-- Consonant 21 টি: All letters except A, E, I, O, U
-
 
 ## Name of 7 Days:
-- Saturday = স্যাডারডেই/স্যাঠাডেই
-- Sunday = সানডেই
+- Saturday = স্যাডারডেই
+- Sunday = সানডেই 
 - Monday = মানডেই
-- Tuesday = চুজডেই
+- Tuesday = ঠিউজডেই/
 - Wednesday = ওয়েন্সডেই
-- Thursday = থ্রাজডেই/থাজডেই
+- Thursday = থ্রাজডেই
 - Friday = ফ্রাইডেই
 
-Note:
-| Rule          | american accent               | british  accent      |
-| ------------- | ----------------------------- | -------------------- |
-| r after vowel | ALWAYS pronounced (car = kar) | DROPPED (car = kaa)  |
-| t in middle   | d-ডী  (water = wa-der)         | t-ঠী (water = wo-tuh) |
-
-- Vowel 5 টি : A, E, I, O, U
-- Consonant 21 টি: All letters except A, E, I, O, U
-
 For Practice:
-
-|             |                            |                 |                |
-| ----------- | -------------------------- | --------------- | -------------- |
-| Day = ডেই    | Pay = ফেই                   | Lay = লেই        | May = মেই       |
-| Say = ছেই    | Okay = ঔখেই                 | Bay = বেই        | Holiday = হলিডেই |
-| Today = ঠুডেই | Yesterday = ইয়েস্টারডেই/ইয়েস্টাডেই | Display = ডিসপ্লেই |                |
+- Day = ডেই, Pay = ফেই, Lay = লেই, May = মেই, Say = ছেই, Bay = বেই
+- Holiday = হলিডেই, Today = ঠুডেই, Yesterday = ইয়েস্টারডেই, Display = ডিসপ্লেই, Okay = ঔখেই  
 
 
 ## Name of 12 Months:
-- January = জ্যানুয়ারী/জানুয়ারী
-- February = ফেব্রুয়ারি/ফেবuয়ারি 
-- March = মাচ
+- January = য্যানuওয়েরী
+- February = ফেব্রুওয়েরী 
+- March = মারচ
 - April = এইপ্রল
 - May = মেই
 - June = জুন
 - July = জুলাই
 - August = ওগাস্ট
-- September = সেপঠেম্বার/সেপঠেম্বা
-- October = অকঠোবার/অকঠোবা
-- November = নৌভেম্বার/নৌভেম্বা
-- December = ডিসেম্বার/ডিসেম্বা
-
-Note:
-| Rule          | american accent               | british  accent      |
-| ------------- | ----------------------------- | -------------------- |
-| r after vowel | ALWAYS pronounced (car = kar) | DROPPED (car = kaa)  |
-| t in middle   | d-ডী  (water = wa-der)         | t-ঠী (water = wo-tuh) |
-
-- Vowel 5 টি : A, E, I, O, U
-- Consonant 21 টি: All letters except A, E, I, O, U
+- September = সেপঠেম্বার
+- October = অকঠোবার
+- November = নৌভেম্বার
+- December = ডিসেম্বার
 
 
 ## Numbers:
@@ -97,7 +70,7 @@ Note:
 | 01  | One          | ওয়ান       |
 | 02  | Two          | ঠু         |
 | 03  | Three        | থ্রি        |
-| 04  | Four         | ফৌর/ফৌ      |
+| 04  | Four         | ফৌর        |
 | 05  | Five         | ফাইভ       |
 | 06  | Six          | সিক্স       |
 | 07  | Seven        | সেভেন       |
@@ -106,25 +79,25 @@ Note:
 | 10  | Ten          | ঠেন        |
 | 11  | Eleven       | এলাভেন      |
 | 12  | Twelve       | ঠুয়ালভ      |
-| 13  | Thirteen     | থারঠীন/থাঠীন  |
-| 14  | Fourteen     | ফৌরঠীন/ফোঠীন  |
+| 13  | Thirteen     | থারঠীন      |
+| 14  | Fourteen     | ফৌরঠীন      |
 | 15  | Fifteen      | ফিফঠীন      |
 | 16  | Sixteen      | সিক্সঠীন     |
 | 17  | Seventeen    | সেভেনঠীন     |
 | 18  | Eighteen     | এইঠীন      |
 | 19  | Nineteen     | নাইনঠীন     |
-| 20  | Twenty       | ঠুয়েনি/ঠুয়েনঠি  |
-| 21  | Twenty One   | ঠুয়েনি অন    |
-| 22  | Twenty Two   | ঠুয়েনি ঠু     |
-| 23  | Twenty Three | ঠুয়েনি থ্রি    |
-| 24  | Twenty Four  | ঠুয়েনি ফোর    |
-| 25  | Twenty Five  | ঠুয়েনি ফাইভ   |
-| 26  | Twenty Six   | ঠুয়েনি সিক্স   |
-| 27  | Twenty Seven | ঠুয়েনি সেভেন   |
-| 28  | Twenty Eight | ঠুয়েনি এইঠ   |
-| 29  | Twenty Nine  | ঠুয়েনি নাইন   |
-| 30  | Thirty       | থারঠি/থাঠি    |
-| 40  | Forty        | ফৌরঠি/ফোঠি    |
+| 20  | Twenty       | ঠুয়েনঠি/ঠুয়েনি  |
+| 21  | Twenty One   | ঠুয়েনঠি অন   |
+| 22  | Twenty Two   | ঠুয়েনঠি ঠু    |
+| 23  | Twenty Three | ঠুয়েনঠি থ্রি   |
+| 24  | Twenty Four  | ঠুয়েনঠি ফোর   |
+| 25  | Twenty Five  | ঠুয়েনঠি ফাইভ  |
+| 26  | Twenty Six   | ঠুয়েনঠি সিক্স  |
+| 27  | Twenty Seven | ঠুয়েনঠি সেভেন  |
+| 28  | Twenty Eight | ঠুয়েনঠি এইঠ  |
+| 29  | Twenty Nine  | ঠুয়েনঠি নাইন  |
+| 30  | Thirty       | থারঠি       |
+| 40  | Forty        | ফৌরঠি       |
 | 50  | Fifty        | ফিফঠি       |
 | 60  | Sixty        | সিক্সঠি      |
 | 70  | Seventy      | সেভেনঠি      |
@@ -137,8 +110,8 @@ Note:
 | -------------- | ---- | --------------- |
 | First          | 1st  | ফার্স্ট            |
 | Second         | 2nd  | সেখেন্ড            |
-| Third          | 3rd  | থারড/থাড          |
-| Fourth         | 4th  | ফৌরথ/ফৌথ          |
+| Third          | 3rd  | থারড             |
+| Fourth         | 4th  | ফৌরথ             |
 | Fifth          | 5th  | ফিফথ             |
 | Sixth          | 6th  | সিক্সথ            |
 | Seventh        | 7th  | সেভেন্থ            |
@@ -147,8 +120,8 @@ Note:
 | Tenth          | 10th | টেন্থ             |
 | Eleventh       | 11th | এলাভেন্থ           |
 | Twelfth        | 12th | ঠুয়ালভথ           |
-| Thirteenth     | 13th | থারর্ঠীন্থ/থার্ঠীন্থ    |
-| Fourteenth     | 14th | ফৌরঠীন্থ/ফৌঠীন্থ      |
+| Thirteenth     | 13th | থারর্ঠীন্থ          |
+| Fourteenth     | 14th | ফৌরঠীন্থ           |
 | Fifteenth      | 15th | ফিফঠীন্থ           |
 | Sixteenth      | 16th | সিক্সঠীন্থ          |
 | Seventeenth    | 17th | সেভেনঠীন্থ          |
@@ -167,68 +140,59 @@ Note:
 | Thirtieth      | 30th | থারঠিথ/থার্ঠিথ       |
 
 
-Note:
-| Rule          | american accent               | british  accent      |
-| ------------- | ----------------------------- | -------------------- |
-| r after vowel | ALWAYS pronounced (car = kar) | DROPPED (car = kaa)  |
-| t in middle   | d-ডী  (water = wa-der)         | t-ঠী (water = wo-tuh) |
-
-- Vowel 5 টি : A, E, I, O, U
-- Consonant 21 টি: All letters except A, E, I, O, U
-
 ## Animals: 
+- Dog 
+- Cat 
+- Cow 
+- Goat = গোউঠ
+- Sheep 
+- Horse = হোরেস
+- Pig
+- Rabbit
+- Mouse 
+- Rat
+- Deer
+- Wolf = উওলফ
+- Fox = ফাকস
+- Bear = বেয়ার
+- Lion = লায়ান
+- Tiger
+- Elephant = এলআফেন্ট   
+- Monkey = মাংকি
+- Gorilla = গ-রি-লা  
+- Zebra = জিব্রা 
+- Giraffe  
+- Kangaroo = খ্যাংগারু(kang-gə-roo)
+- Panda = ফ্যান-ডা
+- Camel = kam-əl
 
-| Animal     | American Accent | British Accent |
-| ---------- | --------------- | -------------- |
-| Dog        | daw-g           | dog            |
-| Cat        | kat             | kat            |
-| Cow        | kow             | kow            |
-| Goat       | goht            | gəʊt           |
-| Sheep      | sheep           | sheep          |
-| Horse      | hors            | haws           |
-| Pig        | pig             | pig            |
-| Rabbit     | rab-it          | rab-it         |
-| Mouse      | mous            | maʊs           |
-| Rat        | rat             | rat            |
-| Deer       | deer            | deer           |
-| Wolf       | wulf            | wulf           |
-| Fox        | foks            | foks           |
-| Bear       | bair            | beh-uh         |
-| Lion       | lie-ən          | lie-uhn        |
-| Tiger      | tie-gər         | tie-guh        |
-| Elephant   | el-uh-fənt      | el-uh-fənt     |
-| Monkey     | mung-kee        | mun-kee        |
-| Ape        | ayp             | eyp            |
-| Gorilla    | guh-ril-uh      | go-ril-uh      |
-| Zebra      | zee-brə         | zeh-brə        |
-| Giraffe    | juh-raf         | ji-raf         |
-| Kangaroo   | kang-gə-roo     | kang-gə-roo    |
-| Panda      | pan-də          | pan-də         |
-| Camel      | kam-əl          | kam-əl         |
-| Donkey     | dong-kee        | don-kee        |
-| Horse      | hors            | haws           |
-| Buffalo    | buh-fə-loh      | buh-fə-loh     |
-| Ox         | oks             | oks            |
-| Squirrel   | skwur-əl        | skwi-rəl       |
-| Bat        | bat             | bat            |
-| Hedgehog   | hej-hog         | hej-hog        |
-| Otter      | ot-er           | ot-uh          |
-| Seal       | seel            | seel           |
-| Dolphin    | dol-fin         | dol-fin        |
-| Whale      | wayl            | wayl           |
-| Shark      | shark           | shaak          |
-| Crocodile  | krok-uh-dile    | krok-uh-dile   |
-| Alligator  | al-uh-gay-ter   | al-uh-gay-tuh  |
-| Snake      | snayk           | sneɪk          |
-| Lizard     | li-zərd         | liz-əd         |
-| Turtle     | tur-tl          | tuh-tl         |
-| Tortoise   | tor-təs         | taw-təs        |
-| Frog       | frog            | frog           |
-| Toad       | tohd            | təʊd           |
-| Chimpanzee | chim-pan-zee    | chim-pan-zee   |
-| Leopard    | lep-ərd         | lep-əd         |
-| Cheetah    | chee-tah        | chee-tah       |
-| Hyena      | hy-ee-nə        | hy-ee-nə       |
+
+
+
+- Donkey = dong-kee
+- Horse = hors
+- Buffalo = buh-fə-loh
+- Ox = oks
+- Squirrel = skwur-əl
+- Bat = bat
+- Hedgehog = hej-hog
+- Otter = ot-er
+- Seal = seel
+- Dolphin = dol-fin
+- Whale = wayl
+- Shark = shark
+- Crocodile = krok-uh-dile
+- Alligator = al-uh-gay-ter
+- Snake = snayk
+- Lizard = li-zərd
+- Turtle = tur-tl
+- Tortoise = tor-təs
+- Frog = frog
+- Toad = tohd
+- Chimpanzee = chim-pan-zee
+- Leopard = lep-ərd
+- Cheetah = chee-tah
+- Hyena = hy-ee-nə
 
 
 ## Birds: 
