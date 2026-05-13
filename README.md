@@ -1,6 +1,6 @@
 <h1 align="center">English Language Notes</h1>
 
-- [Basic English:](#basic-english)
+- [Vocabulary and Pronunciation:](#vocabulary-and-pronunciation)
   - [Alphabet:](#alphabet)
   - [Name of 7 Days:](#name-of-7-days)
   - [Name of 12 Months:](#name-of-12-months)
@@ -14,7 +14,7 @@
   - [Foods:](#foods)
   - [Human Body:](#human-body)
 
-# Basic English:
+# Vocabulary and Pronunciation:
 
 Note: For better pronunciation follow this websites: 
 - https://elsaspeak.com/en/learn-english/how-to-pronounce
@@ -38,7 +38,7 @@ Note:
 - Saturday = স্যাডারডেই
 - Sunday = সানডেই 
 - Monday = মানডেই
-- Tuesday = ঠিউজডেই/
+- Tuesday = ঠিউজডেই
 - Wednesday = ওয়েন্সডেই
 - Thursday = থ্রাজডেই
 - Friday = ফ্রাইডেই
@@ -49,19 +49,18 @@ For Practice:
 
 
 ## Name of 12 Months:
-- January = য্যানuওয়েরী
-- February = ফেব্রুওয়েরী 
-- March = মারচ
+- January = জ্যান-ইউ-এরি 
+- February = ফেব-রু-এরি
+- March = মার্চ
 - April = এইপ্রল
 - May = মেই
 - June = জুন
-- July = জুলাই
+- July = জুলায়
 - August = ওগাস্ট
 - September = সেপঠেম্বার
-- October = অকঠোবার
+- October = অকঠৌবার
 - November = নৌভেম্বার
 - December = ডিসেম্বার
-
 
 ## Numbers:
 
@@ -77,7 +76,7 @@ For Practice:
 | 08  | Eight        | এইঠ       |
 | 09  | Nine         | নাইন       |
 | 10  | Ten          | ঠেন        |
-| 11  | Eleven       | এলাভেন      |
+| 11  | Eleven       | লাভেন       |
 | 12  | Twelve       | ঠুয়ালভ      |
 | 13  | Thirteen     | থারঠীন      |
 | 14  | Fourteen     | ফৌরঠীন      |
@@ -87,7 +86,7 @@ For Practice:
 | 18  | Eighteen     | এইঠীন      |
 | 19  | Nineteen     | নাইনঠীন     |
 | 20  | Twenty       | ঠুয়েনঠি/ঠুয়েনি  |
-| 21  | Twenty One   | ঠুয়েনঠি অন   |
+| 21  | Twenty One   | ঠুয়েনঠি ওয়ান  |
 | 22  | Twenty Two   | ঠুয়েনঠি ঠু    |
 | 23  | Twenty Three | ঠুয়েনঠি থ্রি   |
 | 24  | Twenty Four  | ঠুয়েনঠি ফোর   |
@@ -106,93 +105,86 @@ For Practice:
 | 100 | One Hundred  | ওয়ান হানড্রেড |
 
 
-|                |      |                 |
-| -------------- | ---- | --------------- |
-| First          | 1st  | ফার্স্ট            |
-| Second         | 2nd  | সেখেন্ড            |
-| Third          | 3rd  | থারড             |
-| Fourth         | 4th  | ফৌরথ             |
-| Fifth          | 5th  | ফিফথ             |
-| Sixth          | 6th  | সিক্সথ            |
-| Seventh        | 7th  | সেভেন্থ            |
-| Eighth         | 8th  | এইঠথ            |
-| Ninth          | 9th  | নাইন্থ            |
-| Tenth          | 10th | টেন্থ             |
-| Eleventh       | 11th | এলাভেন্থ           |
-| Twelfth        | 12th | ঠুয়ালভথ           |
-| Thirteenth     | 13th | থারর্ঠীন্থ          |
-| Fourteenth     | 14th | ফৌরঠীন্থ           |
-| Fifteenth      | 15th | ফিফঠীন্থ           |
-| Sixteenth      | 16th | সিক্সঠীন্থ          |
-| Seventeenth    | 17th | সেভেনঠীন্থ          |
-| Eighteenth     | 18th | এইঠীন্থ           |
-| Nineteenth     | 19th | নাইনঠীন্থ          |
-| Twentieth      | 20th | ঠুয়েনঠিথ           |
-| Twenty First   | 21st | ঠুয়েনি/ঠুয়েনঠি ফার্স্ট   |
-| Twenty Second  | 22nd | ঠুয়েনি/ঠুয়েনঠি সেকেন্ড   |
-| Twenty Third   | 23rd | ঠুয়েনি/ঠুয়েনঠি থারড/থাড |
-| Twenty Fourth  | 24th | ঠুয়েনি/ঠুয়েনঠি ফৌরথ/ফৌথ |
-| Twenty Fifth   | 25th | ঠুয়েনি/ঠুয়েনঠি ফিফথ    |
-| Twenty Sixth   | 26th | ঠুয়েনি/ঠুয়েনঠি সিক্সথ   |
-| Twenty Seventh | 27th | ঠুয়েনি/ঠুয়েনঠি সেভেন্থ   |
-| Twenty Eighth  | 28th | ঠুয়েনি/ঠুয়েনঠি এইথ    |
-| Twenty Ninth   | 29th | ঠুয়েনি/ঠুয়েনঠি নাইন্থ   |
-| Thirtieth      | 30th | থারঠিথ/থার্ঠিথ       |
+|                   |       |                 |
+| ----------------- | ----- | --------------- |
+| First             | 1st   | ফারর্স্ট           |
+| Second            | 2nd   | সেখেন্ড            |
+| Third             | 3rd   | থারড             |
+| Fourth            | 4th   | ফৌরথ             |
+| Fifth             | 5th   | ফিফথ             |
+| Sixth             | 6th   | সিক্সথ            |
+| Seventh           | 7th   | সেভেন্থ            |
+| Eighth            | 8th   | এইঠথ            |
+| Ninth             | 9th   | নাইন্থ            |
+| Tenth             | 10th  | টেন্থ             |
+| Eleventh          | 11th  | লাভেন্থ            |
+| Twelfth           | 12th  | ঠুয়ালভথ           |
+| Thirteenth        | 13th  | থারর্ঠীন্থ          |
+| Fourteenth        | 14th  | ফৌরঠীন্থ           |
+| Fifteenth         | 15th  | ফিফঠীন্থ           |
+| Sixteenth         | 16th  | সিক্সঠীন্থ          |
+| Seventeenth       | 17th  | সেভেনঠীন্থ          |
+| Eighteenth        | 18th  | এইঠীন্থ           |
+| Nineteenth        | 19th  | নাইনঠীন্থ          |
+| Twentieth         | 20th  | ঠুয়েনঠিথ           |
+| Thirtieth         | 30th  | থারঠিথ            |
+| Fortieth          | 40th  | ফৌরঠিথ            |
+| Fiftieth          | 50th  | ফিফঠিথ            |
+| Sixtieth          | 60th  | সিক্সঠিথ           |
+| Seventieth        | 70th  | সেভেনঠিথ           |
+| Eightieth         | 80th  | এইঠিথ            |
+| Ninetieth         | 90th  | নাইনঠিথ           |
+| hundredth         | 100th | হানড্রেথ           |
+| one hundred first | 101st | ওয়ান হানড্রেড ফারর্স্ট |
 
 
-## Animals: 
-- Dog 
-- Cat 
-- Cow 
-- Goat = গোউঠ
-- Sheep 
-- Horse = হোরেস
-- Pig
-- Rabbit
-- Mouse 
-- Rat
-- Deer
-- Wolf = উওলফ
-- Fox = ফাকস
-- Bear = বেয়ার
-- Lion = লায়ান
-- Tiger
-- Elephant = এলআফেন্ট   
-- Monkey = মাংকি
-- Gorilla = গ-রি-লা  
-- Zebra = জিব্রা 
-- Giraffe  
-- Kangaroo = খ্যাংগারু(kang-gə-roo)
-- Panda = ফ্যান-ডা
-- Camel = kam-əl
+## Animals:
 
-
-
-
-- Donkey = dong-kee
-- Horse = hors
-- Buffalo = buh-fə-loh
-- Ox = oks
-- Squirrel = skwur-əl
-- Bat = bat
-- Hedgehog = hej-hog
-- Otter = ot-er
-- Seal = seel
-- Dolphin = dol-fin
-- Whale = wayl
-- Shark = shark
-- Crocodile = krok-uh-dile
-- Alligator = al-uh-gay-ter
-- Snake = snayk
-- Lizard = li-zərd
-- Turtle = tur-tl
-- Tortoise = tor-təs
-- Frog = frog
-- Toad = tohd
-- Chimpanzee = chim-pan-zee
-- Leopard = lep-ərd
-- Cheetah = chee-tah
-- Hyena = hy-ee-nə
+| Name             | Pronunciation | Image                                             |
+| ---------------- | ------------- | ------------------------------------------------- |
+| Dog              | ডগ            |                                                   |
+| Cat              | খ্যাঠ           |                                                   |
+| Cow              | খাউ            | ![Cow](./assets/images/animals/cow.png)           |
+| Ox (ষাঁড়)          | অক্স           | ![Ox](./assets/images/animals/ox.png)             |
+| Buffalo (মহিষ)    | বাফোলো           | ![Buffalo](./assets/images/animals/buffalo.png)   |
+| Goat             | গোউঠ           |                                                   |
+| Sheep            | শিপ            |                                                   |
+| Horse            | হোরস           |                                                   |
+| Pig              | ফিগ            |                                                   |
+| Rabbit           | র‍্যাবিঠ          |                                                   |
+| Mouse            | মাউস           |                                                   |
+| Rat              | র‍্যাঠ           |                                                   |
+| Deer             | ডিয়ার           |                                                   |
+| Wolf (নেকড়ে)       | উ-ওলফ         | ![Wolf](./assets/images/animals/wolf.png)         |
+| Fox (শিয়াল)        | ফাকস           | ![Fox](./assets/images/animals/fox.png)           |
+| Bear             | বেয়ার           |                                                   |
+| Lion             | লায়ান           | ![Lion](./assets/images/animals/lion.png)         |
+| Tiger            | ঠাইগার          | ![Tiger](./assets/images/animals/tiger.png)       |
+| Leopard          | ল্যাপারড         | ![Leopard](./assets/images/animals/leopard.png)   |
+| Cheetah          | চিeee-ডা        | ![Cheetah](./assets/images/animals/cheetah.png)   |
+| Hyena            | হাই-ই-না        | ![Hyena](./assets/images/animals/hyena.png)       |
+| Elephant         | এলআফেন্ট        |                                                   |
+| Monkey           | মাংখি            |                                                   |
+| Gorilla          | গরিলা           |                                                   |
+| Zebra            | জিইব্রা          |                                                   |
+| Giraffe          | জিইরাফ          |                                                   |
+| Kangaroo         | খ্যাংগারু          |                                                   |
+| Panda            | ফ্যানডা          |                                                   |
+| Camel            | খ্যামেল          |                                                   |
+| Donkey           | ডংখি            |                                                   |
+| Squirrel (কাঠবিড়ালি) | skwur-əl      |                                                   |
+| Bat              | ব্যাঠ           |                                                   |
+| Hedgehog         | হেজ-হগ         | ![Hedgehog](./assets/images/animals/hedgehog.png) |
+| Otter            | অঠার           | ![Otter](./assets/images/animals/otter.png)       |
+| Seal             | সিল            | ![Seal](./assets/images/animals/seal.png)         |
+| Whale (তিমি)       | ওয়েল           |                                                   |
+| Dolphin          | ডলফিন          |                                                   |
+| Shark            | শার্ক           |                                                   |
+| Crocodile        | ক্রখোডাইল        |                                                   |
+| Snake            | স্নেইক          |                                                   |
+| Lizard (টিকটিকি)    | লি-zerd        |                                                   |
+| Turtle           | ঠার-ডাল         |                                                   |
+| Frog             | ফ্রগ           |                                                   |
 
 
 ## Birds: 
